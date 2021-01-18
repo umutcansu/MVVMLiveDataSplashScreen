@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplashApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_description">First Fragment</string>
+    <string name="home_fragment__description">WELCOME TO APP</string>
+    <string name="onboarding_screen_next_button_description">Next</string>
+    <string name="onboarding_screen_previous_button_description">Previous</string>
+    <string name="second_fragment_description">Second Fragment</string>
+    <string name="onboarding_screen_finish_button_description">Finish</string>
+    <string name="third_fragment_description">Third Fragment</string>
+    <string name="splash_fragment_description">Splash Screen</string>
+</resources>
